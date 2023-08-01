@@ -1,0 +1,55 @@
+.wrappers {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.left {
+    width: 50%;
+    margin: auto;
+
+}
+
+.image img {
+    height: 35rem;
+    margin: auto;
+}
+
+.right {
+    display: flex;
+    flex-direction: column;
+    margin-top: 3rem;
+    width: 50%;
+}
+
+.right h1 {
+    font-size: 3rem;
+
+}
+
+.price {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.selling-price {
+    color: #67a20e;
+    font-size: xx-large;
+}
+
+.btn {
+    margin-top: 18px;
+    padding: 10px 80px;
+    border: 1px solid #b4161b;
+    cursor: pointer;
+    border-radius: 18px;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: #3bb41621;
+}
+.btn:hover {
+    background-color: #A2CD63;
+    color: white;
+    transition: all 0.2s;
+}

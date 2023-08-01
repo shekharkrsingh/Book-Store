@@ -1,0 +1,122 @@
+{
+  "books": [
+    {
+      "bookName": "The Psychology of Money",
+      "featureImage": "https://www.crossword.in/cdn/shop/products/9789390166930_1_b699c377-a14e-4f1f-9251-71022b3d7b96.jpg?v=1662975976",
+      "bookAuthor": "Morgan Housel",
+      "bookDescription": "Timless Lessons on Wealth, Gread and Happiness",
+      "bookActualPrice": "160",
+      "bookSellingPrice": "80",
+      "bookCondition": "good",
+      "id": 1
+    },
+    {
+      "bookName": "Power of Subconscious Mind",
+      "featureImage": "https://m.media-amazon.com/images/I/41+CqNWoutS._SX258_BO1,204,203,200_.jpg",
+      "bookAuthor": "DR. Joseph Murphy",
+      "bookDescription": "sdjkhkjdfher",
+      "bookActualPrice": "299",
+      "bookSellingPrice": "150",
+      "bookCondition": "best",
+      "id": 2
+    },
+    {
+      "bookName": "Power of Subconscious Mind",
+      "featureImage": "https://m.media-amazon.com/images/I/41+CqNWoutS._SX258_BO1,204,203,200_.jpg",
+      "bookAuthor": "DR. Joseph Murphy",
+      "bookDescription": "fdewsa",
+      "bookActualPrice": "123",
+      "bookSellingPrice": "123",
+      "bookCondition": "good",
+      "id": 3
+    },
+    {
+      "bookName": "atomic habits",
+      "featureImage": "https://books.google.co.in/books/publisher/content?id=fFCjDQAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U3rlfgM6oFyqSv8ipQ5LBHklseELg&w=1280",
+      "bookAuthor": "James Clear",
+      "bookDescription": "fjkdahskjnalksjnfdkfghjkndcs",
+      "bookActualPrice": "250",
+      "bookSellingPrice": "199",
+      "bookCondition": "better",
+      "id": 4
+    },
+    {
+      "sellerProfileId": {
+        "sellerProfileId": 8
+      },
+      "bookName": "Adventures of Huckleberry Finn",
+      "featureImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Huckleberry_Finn_book.JPG/330px-Huckleberry_Finn_book.JPG",
+      "bookAuthor": "\tMark Twain",
+      "bookDescription": "Adventures of Huckleberry Finn is a novel by American author Mark Twain, which was first published in the United Kingdom in December 1884 and in the United States in February 1885.\n\nCommonly named among the Great American Novels, the work is among the first in major American literature to be written throughout in vernacular English, characterized by local color regionalism. It is told in the first person by Huckleberry \"Huck\" Finn, the narrator of two other Twain novels (Tom Sawyer Abroad and Tom Sawyer, Detective) and a friend of Tom Sawyer. It is a direct sequel to The Adventures of Tom Sawyer.\n\nThe book is noted for \"changing the course of children's literature\" in the United States for the \"deeply felt portrayal of boyhood\".[2][better source needed] It is also known for its colorful description of people and places along the Mississippi River. Set in a Southern antebellum society that had ceased to exist over 20 years before the work was published, Adventures of Huckleberry Finn is an often scathing satire on entrenched attitudes, particularly racism and freedom.\n\nPerennially popular with readers, Adventures of Huckleberry Finn has also been the continued object of study by literary critics since its publication. The book was widely criticized upon release because of its extensive use of coarse language and racial epithet. Throughout the 20th century, and despite arguments that the protagonist and the tenor of the book are anti-racist,[3][4] criticism of the book continued due to both its perceived use of racial stereotypes and its frequent use of the racial slur \"nigger\".",
+      "bookActualPrice": "500",
+      "bookSellingPrice": "200",
+      "bookCondition": "better",
+      "id": 5
+    },
+    {
+      "sellerProfileId": {
+        "sellerProfileId": 11
+      },
+      "bookName": "Brida",
+      "featureImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1267291590i/2817201.jpg",
+      "bookAuthor": "Paulo Coelho",
+      "bookDescription": "fdsgdsg",
+      "bookActualPrice": "346",
+      "bookSellingPrice": "300",
+      "bookCondition": "best",
+      "id": 6
+    },
+    {
+      "sellerProfileId": {
+        "sellerProfileId": 8
+      },
+      "bookName": "A Treatise to Human Nature",
+      "featureImage": "https://m.media-amazon.com/images/I/41pfLeniWXL.jpg",
+      "bookAuthor": "David Hume",
+      "bookDescription": "A Treatise of Human Nature: Being an Attempt to Introduce the Experimental Method of Reasoning into Moral Subjects (1739–40) is a book by Scottish philosopher David Hume, considered by many to be Hume's most important work and one of the most influential works in the history of philosophy.[1] The Treatise is a classic statement of philosophical empiricism, scepticism, and naturalism. In the introduction Hume presents the idea of placing all science and philosophy on a novel foundation: namely, an empirical investigation into human nature. Impressed by Isaac Newton's achievements in the physical sciences, Hume sought to introduce the same experimental method of reasoning into the study of human psychology, with the aim of discovering the \"extent and force of human understanding\". Against the philosophical rationalists, Hume argues that the passions, rather than reason, cause human behaviour. He introduces the famous problem of induction, arguing that inductive reasoning and our beliefs regarding cause and effect cannot be justified by reason; instead, our faith in induction and causation is caused by mental habit and custom. Hume defends a sentimentalist account of morality, arguing that ethics is based on sentiment and the passions rather than reason, and famously declaring that \"reason is, and ought only to be the slave to the passions\". Hume also offers a sceptical theory of personal identity and a compatibilist account of free will.",
+      "bookActualPrice": "590",
+      "bookSellingPrice": "299",
+      "bookCondition": "better",
+      "id": 7
+    },
+    {
+      "sellerProfileId": {
+        "sellerProfileId": 8
+      },
+      "bookName": "Never Never",
+      "featureImage": "https://books.google.co.in/books/publisher/content?id=CZaeEAAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U1xSL8vEISzdqduC5MVbfB7nZUirw&w=1280",
+      "bookAuthor": "Tarryn Fisher",
+      "bookDescription": "rfhjdknvkldhfuigh",
+      "bookActualPrice": "500",
+      "bookSellingPrice": "300",
+      "bookCondition": "best",
+      "id": 8
+    },
+    {
+      "sellerProfileId": {
+        "sellerProfileId": 8
+      },
+      "bookName": "Rich Dad Poor Dad",
+      "featureImage": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSlrQfRuyGKdvR9r_1QROkXsmnX0sV_-XeEgKk0w80lEGql4GGg",
+      "bookAuthor": "",
+      "bookDescription": "The story begins with the author as a young boy, observing the contrasting financial mindsets and behaviors of his two dads. His poor dad, who held a high position in education, emphasized the importance of academic success, job security, and living within one's means. On the other hand, his rich dad, a successful entrepreneur, believed in building assets, investing wisely, and acquiring financial knowledge.\n\nThroughout the book, Kiyosaki shares anecdotes and conversations that he had with his rich dad, who guided him on various aspects of money, wealth creation, and financial independence. He learns valuable lessons about the difference between assets and liabilities, the power of financial education, and the importance of taking calculated risks. Kiyosaki emphasizes the significance of acquiring assets that generate income, such as real estate and businesses, as opposed to liabilities that drain money, such as excessive consumer debt and unnecessary expenses. He introduces concepts like the cash flow quadrant, which categorizes individuals as employees, self-employed, business owners, or investors, highlighting the advantages and disadvantages of each quadrant.\n\nThe book also delves into the mindset and beliefs around money, discussing the importance of developing a positive relationship with wealth and overcoming limiting beliefs. Kiyosaki stresses the need for financial literacy and encourages readers to take control of their financial destinies by seeking out opportunities, learning from mistakes, and continuously educating themselves about money.",
+      "bookActualPrice": "600",
+      "bookSellingPrice": "399",
+      "bookCondition": "Best",
+      "id": 9
+    },
+    {
+      "sellerProfileId": {
+        "sellerProfileId": 1
+      },
+      "bookName": "The Intelligent Investor",
+      "featureImage": "data:image/jpeg;base64,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",
+      "bookAuthor": "",
+      "bookDescription": "The Intelligent Investor by Benjamin Graham, first published in 1949, is a widely acclaimed book on value investing. The book provides strategies on how to successfully use value investing in the stock market. Historically, the book has been one of the most popular books on investing and Graham's legacy remains.",
+      "bookActualPrice": "1500",
+      "bookSellingPrice": "1197",
+      "bookCondition": "Better",
+      "id": 10
+    }
+  ]
+}

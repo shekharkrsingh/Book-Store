@@ -1,0 +1,90 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+}
+
+/* .home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    scroll-behavior: smooth;
+    flex-wrap: wrap;
+    max-width: 300px;
+    
+}
+
+.card {
+    width: 400px;
+    height: max-content;
+    margin: 1rem;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    align-items: center;
+    box-shadow: rgb(0, 0, 0, 0.24) 0px 3px 8px;
+} 
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.image {
+    width: 380px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+}
+
+.book-name{
+    font-size: large;
+    font-weight: bold
+}
+
+.btn {
+    margin-top: 18px;
+    padding: 10px 80px;
+    border: 1px solid #b4161b;
+    cursor: pointer;
+    border-radius: 18px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #b4161b21;
+}
+
+.btn:hover {
+    background-color: red;
+    color: white;
+    transition: all 0.2s;
+}
+
+.book-actual-price {
+    text-decoration: line-through;
+    color: rgb(4, 202, 4);
+}
+
+.book-selling-price{
+    color: rgb(4, 202, 4);
+} */
